@@ -8,7 +8,7 @@ Files Prep:
 		The above file should include the details of all the students or users who are attending or who are scheduled to attend the meeting.
 		This file can be reused and updated if the names of the students or users, match with the csv date files of multiple meetings.
 		Example Filename: attendancecalculation.xlsx
- 	https://github.com/vijayavelu/attendance_Calculator_for_teams/issues/1
+ 	https://user-images.githubusercontent.com/40388943/116095104-b9bef600-a6c5-11eb-8985-78939e4ead06.png
 	# DD-MM-YYYY – CSV File
 		The above date file can be obtained from a Teams meeting by downloading the attendance list. 
 		The above file contains the details of the students or users who joined and left the meeting along with the respective timestamps.
