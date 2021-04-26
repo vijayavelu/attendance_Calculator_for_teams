@@ -9,8 +9,7 @@ Files Prep:
 		This file can be reused and updated if the names of the students or users, match with the csv date files of multiple meetings.
 		Example Filename: attendancecalculation.xlsx
 	
-	
-![2](https://user-images.githubusercontent.com/40388943/116097782-158a7e80-a6c8-11eb-861b-e2472c274a8c.png)
+![3](https://user-images.githubusercontent.com/40388943/116095250-dfe49600-a6c5-11eb-83c1-dd2a70b20b64.png)
 	
 	# DD-MM-YYYY – CSV File
 		The above date file can be obtained from a Teams meeting by downloading the attendance list. 
