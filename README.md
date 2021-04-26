@@ -27,6 +27,8 @@ Files Prep:
 
 Running the Application:
 
+![5](https://user-images.githubusercontent.com/40388943/116095757-541f3980-a6c6-11eb-908e-9a588500bde5.png)
+
  	1. Enter the start time and end time of a class meeting as per the specified format.
  	2. Enter the threshold percentage value (0-100).
         (A value of 0 indicates that a student or user need not even attend the meeting to be awarded attendance 
@@ -36,9 +38,14 @@ Running the Application:
  	3. Upload the attendance calculation file and the date csv file in the format discussed earlier. 
  	(The final calculated attendance results will be stored in the attendance calculation excel file.)
  	4. After uploading, verify whether the path displayed is the correct path of the file.
- 	5. After verifying the path, click the Submit button to calculate the meeting attendance. 
+ 
+![6](https://user-images.githubusercontent.com/40388943/116095935-79ac4300-a6c6-11eb-886e-2c4f3c6cb237.png)
+ 	
+	6. After verifying the path, click the Submit button to calculate the meeting attendance. 
  	(You will be also shown a message in a command window once the process is completed.)
  	7.  The results can now be viewed in the attendance calculation file.
+
+ ![7](https://user-images.githubusercontent.com/40388943/116096036-8d57a980-a6c6-11eb-9da2-6d920cd2450a.png)
  
 NOTE:
 	**Please verify whether the entered start time and end time along with the time of day (AM/PM) correspond with that of the data in the date csv file obtained from Teams.
