@@ -17,12 +17,12 @@ Files Prep:
 
 **NOTE:**
 	**The names in both the files should match and it is preferable that the names in both the files have the same case (UPPER/LOWER).**
-	 .<a href="#" class="text-inherit">Should save the csv file in UTF-8 Format, otherwise the application won’t work</a>
+	 <a href="#" class="text-inherit">Should save the csv file in UTF-8 Format, otherwise the application won’t work</a>
 	 
-While saving or downloading the csv file from teams, click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
+	While saving or downloading the csv file from teams, 
+	click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
 
 Running the Application:
-	* To run the application, after extracting the files, go to AttendanceCalculatorforTeams -> AttendanceCalculatorforTeams.exe and run the application.
  	* Enter the start time and end time of a class meeting as per the specified format.
 	* Enter the threshold percentage value (0-100). A value of 0 indicates that a student or user need not even attend the meeting to be awarded attendance whereas a value of 100 indicates that the student or user should be present throughout the meeting exactly from the start time till the end time. A value of 75 – 90 is recommended.
 	* Upload the attendance calculation file and the date csv file in the format discussed earlier. The final calculated attendance results will be stored in the attendance calculation excel file.
