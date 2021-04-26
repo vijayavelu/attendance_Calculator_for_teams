@@ -17,9 +17,10 @@ Files Prep:
 
 **NOTE:**
 	**The names in both the files should match and it is preferable that the names in both the files have the same case (UPPER/LOWER).**
-	**Should save the csv file in UTF-8 Format, otherwise the application won’t work.**
-
- 
+	<div class = "text-blue mb-2">
+	  Should save the csv file in UTF-8 Format, otherwise the application won’t work.<a href="#" class="text-inherit">including the link</a>
+	</div>
+ <a href="red">Look, ma! Red!</a>
 While saving or downloading the csv file from teams, click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
 
 Running the Application:
