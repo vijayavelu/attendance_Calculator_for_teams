@@ -1,22 +1,23 @@
 # attendance_Calculator_for_teams
-attendance calculator for teams that gets and calculates attendance depending upon the threshold
-Attendance Calculator for Teams
-User Guide
+Attendance calculator for teams that gets and calculates attendance depending upon the threshold
 
 Files Prep:
 	You require 2 files to calculate the attendance for a Teams meeting.
-	* Attendance Calculation – Excel File
+	
+	# Attendance Calculation – Excel File
 		The above file should include the details of all the students or users who are attending or who are scheduled to attend the meeting.
 		This file can be reused and updated if the names of the students or users, match with the csv date files of multiple meetings.
-Example Filename: attendancecalculation.xlsx
- 	* DD-MM-YYYY – CSV File
-		The above date file can be obtained from a Teams meeting by downloading the attendance list. The above file contains the details of the students or users who joined and left the meeting along with the respective timestamps.
-Example Filename: 11-09-2020.csv
+		Example Filename: attendancecalculation.xlsx
+ 	
+	# DD-MM-YYYY – CSV File
+		The above date file can be obtained from a Teams meeting by downloading the attendance list. 
+		The above file contains the details of the students or users who joined and left the meeting along with the respective timestamps.
+		Example Filename: 11-09-2020.csv
  
 
-NOTE:
-	* The names in both the files should match and it is preferable that the names in both the files have the same case (UPPER/LOWER).
-	*Should save the csv file in UTF-8 Format, otherwise the application won’t work.
+**NOTE:**
+	**The names in both the files should match and it is preferable that the names in both the files have the same case (UPPER/LOWER).**
+	**Should save the csv file in UTF-8 Format, otherwise the application won’t work.**
 
  
 While saving or downloading the csv file from teams, click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
