@@ -3,18 +3,20 @@ Attendance calculator for teams that gets and calculates attendance depending up
 
 Files Prep:
 	You require 2 files to calculate the attendance for a Teams meeting.
+	
 	# Attendance Calculation – Excel File
 		The above file should include the details of all the students or users who are attending or who are scheduled to attend the meeting.
 		This file can be reused and updated if the names of the students or users, match with the csv date files of multiple meetings.
 		Example Filename: attendancecalculation.xlsx
 	
 	
-	![image](https://user-images.githubusercontent.com/40388943/116095104-b9bef600-a6c5-11eb-8985-	78939e4ead06.png)
+![2](https://user-images.githubusercontent.com/40388943/116097782-158a7e80-a6c8-11eb-861b-e2472c274a8c.png)
 	
 	# DD-MM-YYYY – CSV File
 		The above date file can be obtained from a Teams meeting by downloading the attendance list. 
 		The above file contains the details of the students or users who joined and left the meeting along with the respective timestamps.
 		Example Filename: 11-09-2020.csv
+		
  
 
 **NOTE:**
