@@ -48,4 +48,4 @@ Running the Application:
  ![7](https://user-images.githubusercontent.com/40388943/116096036-8d57a980-a6c6-11eb-9da2-6d920cd2450a.png)
  
 NOTE:
-	**Please verify whether the entered start time and end time along with the time of day (AM/PM) correspond with that of the data in the date csv file obtained from Teams.
+	**Please verify whether the entered start time and end time along with the time of day (AM/PM) correspond with that of the data in the date csv file obtained from Teams.**
