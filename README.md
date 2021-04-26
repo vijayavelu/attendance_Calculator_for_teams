@@ -23,13 +23,19 @@ Files Prep:
 	click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
 
 Running the Application:
- 	* Enter the start time and end time of a class meeting as per the specified format.
-	* Enter the threshold percentage value (0-100). A value of 0 indicates that a student or user need not even attend the meeting to be awarded attendance whereas a value of 100 indicates that the student or user should be present throughout the meeting exactly from the start time till the end time. A value of 75 – 90 is recommended.
-	* Upload the attendance calculation file and the date csv file in the format discussed earlier. The final calculated attendance results will be stored in the attendance calculation excel file.
-	* After uploading, verify whether the path displayed is the correct path of the file.
- 	* After verifying the path, click the Submit button to calculate the meeting attendance. You will be also shown a message in a command window once the process is completed.
-	* The results can now be viewed in the attendance calculation file.
+
+ 	1. Enter the start time and end time of a class meeting as per the specified format.
+ 	2. Enter the threshold percentage value (0-100).
+        (A value of 0 indicates that a student or user need not even attend the meeting to be awarded attendance 
+	whereas a value of 100 indicates that the student or user should be present throughout the meeting
+	exactly from the start time till the end time. 
+	A value of 75 – 90 is recommended.)
+ 	3. Upload the attendance calculation file and the date csv file in the format discussed earlier. 
+ 	(The final calculated attendance results will be stored in the attendance calculation excel file.)
+ 	4. After uploading, verify whether the path displayed is the correct path of the file.
+ 	5. After verifying the path, click the Submit button to calculate the meeting attendance. 
+ 	(You will be also shown a message in a command window once the process is completed.)
+ 	7.  The results can now be viewed in the attendance calculation file.
  
 NOTE:
-	* Please verify whether the entered start time and end time along with the time of day (AM/PM) correspond with that of the data in the date csv file obtained from Teams.
-
+	**Please verify whether the entered start time and end time along with the time of day (AM/PM) correspond with that of the data in the date csv file obtained from Teams.
