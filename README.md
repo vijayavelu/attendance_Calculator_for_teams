@@ -23,6 +23,7 @@ Files Prep:
 	 
 	While saving or downloading the csv file from teams, 
 	click on Tools -> Web Options -> Encoding and use the dropdown to save this document as Unicode (UTF-8). 
+![4](https://user-images.githubusercontent.com/40388943/116095544-2508c800-a6c6-11eb-9c9a-3e66b0c5a66c.png)
 
 Running the Application:
 
