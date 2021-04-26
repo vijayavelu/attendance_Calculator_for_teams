@@ -3,7 +3,7 @@ import pandas as pd
 from tkinter import StringVar, ttk, filedialog
 
 window = tk.Tk()
-window.title("Attendance Calculator for Teams") # to define the title
+window.title("Attendance Calculator for Teams")# to define the title
 
 canvas1 = tk.Canvas(window, width = 400, height = 620)
 canvas1.pack()
